@@ -1,1 +1,0 @@
-The next step of using OOP in real life situation, instead of just simply reading the existing information. The integration of system helps convert dict to object which allows user to adjust and modify data.
